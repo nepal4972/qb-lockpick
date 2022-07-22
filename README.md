@@ -5,7 +5,6 @@
 https://discord.gg/268axUB9
 
 # Preview
-**https://streamable.com/g7g2is** **: My Version**
 
 
 **Original Version:** ![image](https://user-images.githubusercontent.com/64354150/168526878-0677616f-f7ed-45bb-81ce-ba3a656a1e8b.png)
